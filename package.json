@@ -9,6 +9,10 @@
     "Swipe",
     "Navigation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsshard/react-native-navigator.git"
+  },
   "author": "dsshard",
   "license": "MIT",
   "peerDependencies": {
