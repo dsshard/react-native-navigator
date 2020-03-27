@@ -19,10 +19,6 @@
     "react": ">=16.9.x",
     "react-native": ">=0.50.x"
   },
-  "dependencies": {
-    "react": "16.13.1",
-    "react-native": "0.62.0"
-  },
   "scripts": {
     "test": "jest"
   },
