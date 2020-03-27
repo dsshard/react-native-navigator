@@ -1,7 +1,7 @@
 {
   "name": "@coxy/react-native-navigator",
   "description": "React Native screen Navigation & custom transition animations",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "main": "lib/index.js",
   "keywords": [
