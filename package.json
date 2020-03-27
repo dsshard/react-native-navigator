@@ -20,8 +20,8 @@
     "react-native": ">=0.50.x"
   },
   "dependencies": {
-    "react": ">=16.9.x",
-    "react-native": ">=0.50.x"
+    "react": "16.13.1",
+    "react-native": "0.62.0"
   },
   "scripts": {
     "test": "jest"
@@ -30,12 +30,12 @@
     "preset": "react-native"
   },
   "devDependencies": {
-    "@babel/core": "7.8.7",
-    "@babel/runtime": "7.8.7",
-    "@react-native-community/eslint-config": "0.0.7",
+    "@babel/core": "7.9.0",
+    "@babel/runtime": "7.9.2",
+    "@react-native-community/eslint-config": "1.0.0",
     "eslint": "6.8.0",
-    "jest": "25.1.0",
-    "metro-react-native-babel-preset": "0.58.0",
+    "jest": "25.2.3",
+    "metro-react-native-babel-preset": "0.59.0",
     "react-test-renderer": "16.13.1"
   }
 }
