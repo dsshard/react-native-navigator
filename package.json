@@ -1,7 +1,7 @@
 {
   "name": "@coxy/react-native-navigator",
   "description": "React Native screen Navigation & custom transition animations",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "private": false,
   "main": "lib/index.js",
   "keywords": [
@@ -26,6 +26,8 @@
     "preset": "react-native"
   },
   "devDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.62.0",
     "@babel/core": "7.9.0",
     "@babel/runtime": "7.9.2",
     "@react-native-community/eslint-config": "1.0.0",
